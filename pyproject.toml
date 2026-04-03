@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build.meta"
+
+[project]
+name = "test_package_ameliaquinn"
+version = "0.0.1"
+authors = [
+{ name = "Amelia Quinn", email = "aaquinn@smith.edu" } , 
+{ name = "Grace Pepperman", email = "gpepperman@smith.edu" } , 
+{ name = "Miranda Felsmann", email = "mfelsmann@smith.edu" } ,
+]
+description = "A small example package"
+readme = "README.md"
+requires-python =  ">=3.9"
+classifiers = [
+" Programming Language :: Python :: 3",
+" Operating System :: OS Independent", 
+]
+license = "MIT"
+license-files  = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/ameliaquinn/test_package"
+Issues = "https://github.com/ameliaquinn/test_package/issues"
