@@ -6,7 +6,7 @@ build-backend = "setuptools.build.meta"
 name = "test_package_ameliaquinn"
 version = "0.0.1"
 authors = [
-{ name = "Amelia Quinn", email = "aaquinn@smith.edu } , 
+{ name = "Amelia Quinn", email = "aaquinn@smith.edu" } , 
 { name = "Grace Pepperman", email = "gpepperman@smith.edu" } , 
 { name = "Miranda Felsmann", email = "mfelsmann@smith.edu" } ,
 ]
