@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/three_body.py
+src/tests/__init__.py
+src/tests/test_three_body.py
+src/tests/three_body_tests.py
+src/tests.egg-info/PKG-INFO
+src/tests.egg-info/SOURCES.txt
+src/tests.egg-info/dependency_links.txt
+src/tests.egg-info/top_level.txt
