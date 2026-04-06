@@ -2,6 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 src/__init__.py
+src/_version.py
 src/three_body.py
 src/tests/__init__.py
 src/tests/test_three_body.py
